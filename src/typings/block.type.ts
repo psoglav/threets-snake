@@ -1,5 +1,4 @@
 import { BoxGeometry, Mesh, Material } from 'three'
-import { DirectionEnum } from '.';
 
 export interface IEntity {
   getBlocks(): void
