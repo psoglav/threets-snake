@@ -1,6 +1,6 @@
 # 3DSnake.ts
 
-> This is just a simple project aimed at practicing OOP and three.js.
+> This simple project aimed at practicing OOP and three.js.
 
 ## Run
 
